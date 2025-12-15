@@ -1,12 +1,10 @@
-# Mohamed Amraoui
+# Amraoui Mohamed
 
-Backend Developer | Desktop Applications | Python Enthusiast
-
----
+Backend Engineer (Python/Django) | SaaS & Automation Builder | Web Scraping Specialist 
 
 ## About Me
-I am a backend developer specializing in **Python** with experience in **Django** for web development and **PyQt5** for desktop applications.  
-I am passionate about writing clean, efficient code, learning new technologies, and exploring software design and architecture.
+I am **Amraoui Mohamed**, a backend engineer specialized in building custom software solutions for individuals and mid-sized companies.  
+My solutions are diverse, ranging from websites to **desktop applications and automation tools**. I focus on writing clean, efficient, and maintainable code while leveraging modern frameworks and best practices.
 
 ---
 
@@ -22,10 +20,7 @@ I am passionate about writing clean, efficient code, learning new technologies, 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amraouimohamed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amraouimohamed&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amraouimohamed&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amraouimohamed&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=amraouimohamed&style=flat-square)
 
----
-
-## Contact
-- Email: your-email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
