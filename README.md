@@ -13,14 +13,3 @@ My solutions are diverse, ranging from websites to **desktop applications and au
 **Databases:** PostgreSQL, SQLite  
 **Tools & Platforms:** Git, GitHub, Linux  
 **Other Knowledge:** APIs, OOP, Data Structures, Software Architecture
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amraouimohamed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amraouimohamed&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amraouimohamed&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=amraouimohamed&style=flat-square)
-
-## Contact
-- Email: your-email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- Portfolio: [Your Website](https://yourwebsite.com)
